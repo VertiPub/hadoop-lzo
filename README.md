@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 Hadoop-LZO [![Build Status](https://travis-ci.org/twitter/hadoop-lzo.png?branch=master)](https://travis-ci.org/twitter/hadoop-lzo)
 ==========
 
